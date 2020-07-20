@@ -1,0 +1,23 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <title>Berlatih fussion chart</title>
+  <script type="text/javascript" src="fusioncharts-suite-xt-personal-non-commercial/js/fusioncharts.js"></script>
+  <script type="text/javascript">
+  FusionChart.ready(function(){
+    var G1 = new FusionChart({
+      "type":"column2d",
+      "renderAt":"graphpengunjung",
+      "width":"1000",
+      "height":"2000",
+      "dataFormat":"jsonurl",
+      "dataSource":"DBweb.php",
+    });
+    G1.render();
+  })
+  </script>
+</head>
+<body>
+  <div id="graphpengunjung"></div>
+</body>
+</html>

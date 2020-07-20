@@ -1,0 +1,16 @@
+[09-Oct-2019 12:30:57 Asia/Makassar] PHP Fatal error:  Uncaught Error: Class 'Gambar' not found in /home/trad6266/public_html/demo99/adminweb/modul/mod_identitas/aksi_identitas.php:21
+Stack trace:
+#0 {main}
+  thrown in /home/trad6266/public_html/demo99/adminweb/modul/mod_identitas/aksi_identitas.php on line 21
+[09-Oct-2019 12:34:26 Asia/Makassar] PHP Fatal error:  Uncaught Error: Class 'Gambar' not found in /home/trad6266/public_html/demo99/adminweb/modul/mod_identitas/aksi_identitas.php:21
+Stack trace:
+#0 {main}
+  thrown in /home/trad6266/public_html/demo99/adminweb/modul/mod_identitas/aksi_identitas.php on line 21
+[09-Oct-2019 12:35:09 Asia/Makassar] PHP Fatal error:  Uncaught Error: Class 'Gambar' not found in /home/trad6266/public_html/demo99/adminweb/modul/mod_identitas/aksi_identitas.php:21
+Stack trace:
+#0 {main}
+  thrown in /home/trad6266/public_html/demo99/adminweb/modul/mod_identitas/aksi_identitas.php on line 21
+[09-Oct-2019 12:46:27 Asia/Makassar] PHP Fatal error:  Uncaught Error: Class 'Gambar' not found in /home/trad6266/public_html/demo99/adminweb/modul/mod_identitas/aksi_identitas.php:21
+Stack trace:
+#0 {main}
+  thrown in /home/trad6266/public_html/demo99/adminweb/modul/mod_identitas/aksi_identitas.php on line 21

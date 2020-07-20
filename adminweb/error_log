@@ -1,0 +1,110 @@
+[03-Oct-2019 13:17:57 Asia/Makassar] PHP Warning:  mysqli_connect(): (HY000/2002): No such file or directory in /home/trad6266/public_html/demo99/config/db_config.php on line 23
+[03-Oct-2019 13:17:57 Asia/Makassar] PHP Warning:  mysqli_connect(): (HY000/2002): No such file or directory in /home/trad6266/public_html/demo99/config/db_config.php on line 23
+[03-Oct-2019 13:17:57 Asia/Makassar] PHP Warning:  mysqli::__construct(): (HY000/2002): No such file or directory in /home/trad6266/public_html/demo99/config/db_config.php on line 11
+[03-Oct-2019 13:18:01 Asia/Makassar] PHP Warning:  mysqli_connect(): (HY000/2002): No such file or directory in /home/trad6266/public_html/demo99/config/db_config.php on line 23
+[03-Oct-2019 13:18:01 Asia/Makassar] PHP Warning:  mysqli::__construct(): (HY000/2002): No such file or directory in /home/trad6266/public_html/demo99/config/db_config.php on line 11
+[10-Oct-2019 22:10:14 Asia/Makassar] PHP Warning:  include(modul/mod_pengunjung/pengunjung.php): failed to open stream: No such file or directory in /home/trad6266/public_html/demo99/adminweb/content.php on line 22
+[10-Oct-2019 22:10:14 Asia/Makassar] PHP Warning:  include(modul/mod_pengunjung/pengunjung.php): failed to open stream: No such file or directory in /home/trad6266/public_html/demo99/adminweb/content.php on line 22
+[10-Oct-2019 22:10:14 Asia/Makassar] PHP Warning:  include(): Failed opening 'modul/mod_pengunjung/pengunjung.php' for inclusion (include_path='.:/opt/cpanel/ea-php71/root/usr/share/pear') in /home/trad6266/public_html/demo99/adminweb/content.php on line 22
+[10-Oct-2019 22:10:23 Asia/Makassar] PHP Warning:  include(modul/mod_pengunjung/pengunjung.php): failed to open stream: No such file or directory in /home/trad6266/public_html/demo99/adminweb/content.php on line 22
+[10-Oct-2019 22:10:23 Asia/Makassar] PHP Warning:  include(modul/mod_pengunjung/pengunjung.php): failed to open stream: No such file or directory in /home/trad6266/public_html/demo99/adminweb/content.php on line 22
+[10-Oct-2019 22:10:23 Asia/Makassar] PHP Warning:  include(): Failed opening 'modul/mod_pengunjung/pengunjung.php' for inclusion (include_path='.:/opt/cpanel/ea-php71/root/usr/share/pear') in /home/trad6266/public_html/demo99/adminweb/content.php on line 22
+[10-Oct-2019 22:11:15 Asia/Makassar] PHP Warning:  include(modul/mod_kontak/kontak.php): failed to open stream: No such file or directory in /home/trad6266/public_html/demo99/adminweb/content.php on line 25
+[10-Oct-2019 22:11:15 Asia/Makassar] PHP Warning:  include(modul/mod_kontak/kontak.php): failed to open stream: No such file or directory in /home/trad6266/public_html/demo99/adminweb/content.php on line 25
+[10-Oct-2019 22:11:15 Asia/Makassar] PHP Warning:  include(): Failed opening 'modul/mod_kontak/kontak.php' for inclusion (include_path='.:/opt/cpanel/ea-php71/root/usr/share/pear') in /home/trad6266/public_html/demo99/adminweb/content.php on line 25
+[11-Oct-2019 09:13:26 Asia/Makassar] PHP Fatal error:  Uncaught Error: Call to undefined method User::tampil_identitas() in /home/trad6266/public_html/demo99/adminweb/modul/mod_identitas/identitas.php:48
+Stack trace:
+#0 /home/trad6266/public_html/demo99/adminweb/content.php(19): include()
+#1 /home/trad6266/public_html/demo99/adminweb/index.php(267): include('/home/trad6266/...')
+#2 {main}
+  thrown in /home/trad6266/public_html/demo99/adminweb/modul/mod_identitas/identitas.php on line 48
+[11-Oct-2019 10:05:33 Asia/Makassar] PHP Fatal error:  Uncaught Error: Call to undefined method User::tampil_identitas() in /home/trad6266/public_html/demo99/adminweb/modul/mod_identitas/identitas.php:48
+Stack trace:
+#0 /home/trad6266/public_html/demo99/adminweb/content.php(19): include()
+#1 /home/trad6266/public_html/demo99/adminweb/index.php(267): include('/home/trad6266/...')
+#2 {main}
+  thrown in /home/trad6266/public_html/demo99/adminweb/modul/mod_identitas/identitas.php on line 48
+[11-Oct-2019 10:06:54 Asia/Makassar] PHP Fatal error:  Uncaught Error: Call to undefined method User::tampil_identitas() in /home/trad6266/public_html/demo99/adminweb/modul/mod_identitas/identitas.php:48
+Stack trace:
+#0 /home/trad6266/public_html/demo99/adminweb/content.php(19): include()
+#1 /home/trad6266/public_html/demo99/adminweb/index.php(267): include('/home/trad6266/...')
+#2 {main}
+  thrown in /home/trad6266/public_html/demo99/adminweb/modul/mod_identitas/identitas.php on line 48
+[11-Oct-2019 10:13:06 Asia/Makassar] PHP Fatal error:  Uncaught Error: Call to undefined method User::tampil_identitas() in /home/trad6266/public_html/demo99/adminweb/modul/mod_identitas/identitas.php:48
+Stack trace:
+#0 /home/trad6266/public_html/demo99/adminweb/content.php(19): include()
+#1 /home/trad6266/public_html/demo99/adminweb/index.php(267): include('/home/trad6266/...')
+#2 {main}
+  thrown in /home/trad6266/public_html/demo99/adminweb/modul/mod_identitas/identitas.php on line 48
+[11-Oct-2019 10:31:03 Asia/Makassar] PHP Fatal error:  Uncaught Error: Call to undefined method User::tampil_identitas() in /home/trad6266/public_html/demo99/adminweb/modul/mod_identitas/identitas.php:48
+Stack trace:
+#0 /home/trad6266/public_html/demo99/adminweb/content.php(19): include()
+#1 /home/trad6266/public_html/demo99/adminweb/index.php(267): include('/home/trad6266/...')
+#2 {main}
+  thrown in /home/trad6266/public_html/demo99/adminweb/modul/mod_identitas/identitas.php on line 48
+[11-Oct-2019 10:31:13 Asia/Makassar] PHP Fatal error:  Uncaught Error: Call to undefined method User::tampil_identitas() in /home/trad6266/public_html/demo99/adminweb/modul/mod_identitas/identitas.php:48
+Stack trace:
+#0 /home/trad6266/public_html/demo99/adminweb/content.php(19): include()
+#1 /home/trad6266/public_html/demo99/adminweb/index.php(267): include('/home/trad6266/...')
+#2 {main}
+  thrown in /home/trad6266/public_html/demo99/adminweb/modul/mod_identitas/identitas.php on line 48
+[11-Oct-2019 10:32:45 Asia/Makassar] PHP Fatal error:  Uncaught Error: Call to undefined method User::tampil_identitas() in /home/trad6266/public_html/demo99/adminweb/modul/mod_identitas/identitas.php:48
+Stack trace:
+#0 /home/trad6266/public_html/demo99/adminweb/content.php(19): include()
+#1 /home/trad6266/public_html/demo99/adminweb/index.php(267): include('/home/trad6266/...')
+#2 {main}
+  thrown in /home/trad6266/public_html/demo99/adminweb/modul/mod_identitas/identitas.php on line 48
+[11-Oct-2019 10:32:50 Asia/Makassar] PHP Fatal error:  Uncaught Error: Call to undefined method User::tampil_identitas() in /home/trad6266/public_html/demo99/adminweb/modul/mod_identitas/identitas.php:48
+Stack trace:
+#0 /home/trad6266/public_html/demo99/adminweb/content.php(19): include()
+#1 /home/trad6266/public_html/demo99/adminweb/index.php(267): include('/home/trad6266/...')
+#2 {main}
+  thrown in /home/trad6266/public_html/demo99/adminweb/modul/mod_identitas/identitas.php on line 48
+[11-Oct-2019 10:32:59 Asia/Makassar] PHP Fatal error:  Uncaught Error: Call to undefined method User::tampil_identitas() in /home/trad6266/public_html/demo99/adminweb/modul/mod_identitas/identitas.php:48
+Stack trace:
+#0 /home/trad6266/public_html/demo99/adminweb/content.php(19): include()
+#1 /home/trad6266/public_html/demo99/adminweb/index.php(267): include('/home/trad6266/...')
+#2 {main}
+  thrown in /home/trad6266/public_html/demo99/adminweb/modul/mod_identitas/identitas.php on line 48
+[11-Oct-2019 10:33:22 Asia/Makassar] PHP Fatal error:  Uncaught Error: Call to undefined method User::tampil_identitas() in /home/trad6266/public_html/demo99/adminweb/modul/mod_identitas/identitas.php:48
+Stack trace:
+#0 /home/trad6266/public_html/demo99/adminweb/content.php(19): include()
+#1 /home/trad6266/public_html/demo99/adminweb/index.php(267): include('/home/trad6266/...')
+#2 {main}
+  thrown in /home/trad6266/public_html/demo99/adminweb/modul/mod_identitas/identitas.php on line 48
+[11-Oct-2019 10:34:04 Asia/Makassar] PHP Fatal error:  Uncaught Error: Call to undefined method User::tampil_identitas() in /home/trad6266/public_html/demo99/adminweb/modul/mod_identitas/identitas.php:48
+Stack trace:
+#0 /home/trad6266/public_html/demo99/adminweb/content.php(19): include()
+#1 /home/trad6266/public_html/demo99/adminweb/index.php(267): include('/home/trad6266/...')
+#2 {main}
+  thrown in /home/trad6266/public_html/demo99/adminweb/modul/mod_identitas/identitas.php on line 48
+[11-Oct-2019 10:36:18 Asia/Makassar] PHP Fatal error:  Uncaught Error: Call to undefined method User::tampil_identitas() in /home/trad6266/public_html/demo99/adminweb/modul/mod_identitas/identitas.php:48
+Stack trace:
+#0 /home/trad6266/public_html/demo99/adminweb/content.php(19): include()
+#1 /home/trad6266/public_html/demo99/adminweb/index.php(267): include('/home/trad6266/...')
+#2 {main}
+  thrown in /home/trad6266/public_html/demo99/adminweb/modul/mod_identitas/identitas.php on line 48
+[11-Oct-2019 10:36:18 Asia/Makassar] PHP Fatal error:  Uncaught Error: Call to undefined method User::tampil_identitas() in /home/trad6266/public_html/demo99/adminweb/modul/mod_identitas/identitas.php:48
+Stack trace:
+#0 /home/trad6266/public_html/demo99/adminweb/content.php(19): include()
+#1 /home/trad6266/public_html/demo99/adminweb/index.php(267): include('/home/trad6266/...')
+#2 {main}
+  thrown in /home/trad6266/public_html/demo99/adminweb/modul/mod_identitas/identitas.php on line 48
+[11-Oct-2019 10:36:41 Asia/Makassar] PHP Fatal error:  Uncaught Error: Call to undefined method User::tampil_identitas() in /home/trad6266/public_html/demo99/adminweb/modul/mod_identitas/identitas.php:48
+Stack trace:
+#0 /home/trad6266/public_html/demo99/adminweb/content.php(19): include()
+#1 /home/trad6266/public_html/demo99/adminweb/index.php(267): include('/home/trad6266/...')
+#2 {main}
+  thrown in /home/trad6266/public_html/demo99/adminweb/modul/mod_identitas/identitas.php on line 48
+[11-Oct-2019 10:41:36 Asia/Makassar] PHP Fatal error:  Uncaught Error: Call to undefined method User::tampil_identitas() in /home/trad6266/public_html/demo99/adminweb/modul/mod_identitas/identitas.php:48
+Stack trace:
+#0 /home/trad6266/public_html/demo99/adminweb/content.php(19): include()
+#1 /home/trad6266/public_html/demo99/adminweb/index.php(267): include('/home/trad6266/...')
+#2 {main}
+  thrown in /home/trad6266/public_html/demo99/adminweb/modul/mod_identitas/identitas.php on line 48
+[11-Oct-2019 10:42:59 Asia/Makassar] PHP Fatal error:  Uncaught Error: Call to undefined method User::tampil_identitas() in /home/trad6266/public_html/demo99/adminweb/modul/mod_identitas/identitas.php:48
+Stack trace:
+#0 /home/trad6266/public_html/demo99/adminweb/content.php(19): include()
+#1 /home/trad6266/public_html/demo99/adminweb/index.php(267): include('/home/trad6266/...')
+#2 {main}
+  thrown in /home/trad6266/public_html/demo99/adminweb/modul/mod_identitas/identitas.php on line 48

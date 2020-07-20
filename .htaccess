@@ -1,0 +1,16 @@
+<IfModule mod_rewrite.c>
+RewriteEngine on
+
+RewriteRule ^$ index.php?module=home [L]
+RewriteRule ^tentang$ index.php?module=tentang [L]
+RewriteRule ^berita$ index.php?module=berita [L]
+RewriteRule ^dberita/(.*)$ index.php?module=detail_berita&id=$1 [L]
+RewriteRule ^dfasilitas/(.*)$ index.php?module=detail_fasilitas&id=$1 [L]
+RewriteRule ^berita/(.*)$ index.php?module=berita&page=$1 [L]
+RewriteRule ^event$ index.php?module=event [L]
+RewriteRule ^event/(.*)$ index.php?module=event&page=$1 [L]
+RewriteRule ^fasilitas$ index.php?module=fasilitas [L]
+RewriteRule ^fasilitas/(.*)$ index.php?module=fasilitas&page=$1 [L]
+RewriteRule ^kontak$ index.php?module=kontak [L]
+
+</IfModule>
